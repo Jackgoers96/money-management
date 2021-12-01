@@ -3,7 +3,7 @@ This is an app that works both online and offline - When you lose internet conne
 In this app, I used Atlas/Mongo again. 
 
 ## Demo
-[JackGoers96](https://dashboard.heroku.com/apps/money-managed96)
+[To heroku!>>>](https://dashboard.heroku.com/apps/money-managed96)
 
 
 ## Screenshot
